@@ -68,7 +68,7 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 ## **Contributors**
 
 - **Rayane** - Network Design and Configuration and documentation
-- **younes** - Network Design and Configuration and documentation
+- **Younes** - Network Design and Configuration and documentation
 - **Colin** - Network Design and Configuration and documentation
 
 ---
