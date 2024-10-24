@@ -1,4 +1,4 @@
-![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/NOD's%20logo.jpg)
+![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/07.%20Contents/NOD's%20logo.jpg)
 
 # **NOD's Project**
 
@@ -67,9 +67,9 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 
 ## **Contributors**
 
-- **Rayane** - Network Design and Configuration and documentation
-- **younes** - Network Design and Configuration and documentation
-- **Colin** - Network Design and Configuration and documentation
+- **Rayane** - Network Design, configuration and documentation
+- **Younes** - Network Design, configuration and documentation
+- **Colin** - Network Design, configuration and documentation
 
 ---
 
