@@ -1,3 +1,5 @@
+![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/Logo.jpg)
+
 # **NOD's Project**
 
 Welcome to the NOD's project! This project demonstrates how to build a scalable, secure, and organized computer network for different groups of users, using Cisco Packet Tracer.
