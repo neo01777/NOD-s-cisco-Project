@@ -1,3 +1,5 @@
+![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/Logo.jpg)
+
 # **NOD's Project**
 
 Welcome to the NOD's project! This project demonstrates how to build a scalable, secure, and organized computer network for different groups of users, using Cisco Packet Tracer.
@@ -24,11 +26,12 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 **[Network Device](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/03.%20Network%20Devices)**
 - Routers
 - Switches
-  
-**[Security and Purpose](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Security%20and%20purposes)**
-- Cable Management
+
+**[Cable Management](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Cable%20management)**
 - VLAN
 - Acces List
+
+**[Security and Purpose](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Security%20and%20purposes)**
 - Cross-Departmental Redundancy
 - Radius Authentication
   
