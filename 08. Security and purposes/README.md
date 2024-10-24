@@ -134,7 +134,7 @@
 `Router(config-if)# crypto map [map-name]`  
 
 
-### RADIUS Authentication
+## 13. RADIUS Authentication
 
 RADIUS (Remote Authentication Dial-In User Service) is used to link network access control with a centralized authentication system. Key advantages of this approach include:
 
