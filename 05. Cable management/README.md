@@ -2,8 +2,8 @@
 
 Our network security is designed to be both streamlined and effective. We utilize a single cable to connect our router to the network, ensuring clarity in our setup. Specific ports are designated for different areas:
 
-- **G0/0**: For external WAN access
-- **G0/1**: For internal LAN use
+- **G0/0**: For internal LAN use
+- **G0/1**: For external WAN access
 - **G0/2**: For server connections
 
 This configuration simplifies security management by clearly separating network segments, which facilitates easier monitoring and protection of our data and resources.
