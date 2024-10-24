@@ -1,8 +1,6 @@
-# NOD's cisco Project
+# **NOD's Project**
 
-# **Computer Playground Network Project**
-
-Welcome to the **Computer Playground Network** project! This project demonstrates how to build a scalable, secure, and organized computer network for different groups of users, using Cisco Packet Tracer.
+Welcome to the NOD's project! This project demonstrates how to build a scalable, secure, and organized computer network for different groups of users, using Cisco Packet Tracer.
 
 ### **Project Overview**
 
@@ -17,32 +15,25 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 ---
 
 ## **Network Design Summary**
+**[Overview](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/01.%20Overview)**
+- Short overview of the project
 
-### **1. Separation of Groups Using VLANs**
-We created four distinct **VLANs** (Virtual Local Area Networks) to separate traffic for each group. Each VLAN acts like a fenced-off area, so computers in different groups stay organized and don’t interfere with each other.
+**[IP Table](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/02.%20IP%20Table)**
+- Table of all assigned IP addresses
 
-- **Management/Secretariat**: VLAN 10 (IP Range: 192.168.10.0/24)
-- **Study Group**: VLAN 20 (IP Range: 192.168.20.0/24)
-- **Production Group**: VLAN 30 (IP Range: 192.168.30.0/24)
-- **Support Group**: VLAN 40 (IP Range: 192.168.40.0/24)
+**[Network Device](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/03.%20Network%20Devices)**
+- Routers
+- Switches
+  
+**[Security and Purpose](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Security%20and%20purposes)**
+- Cable Management
+- VLAN
+- Acces List
+- Cross-Departmental Redundancy
+- Radius Authentication
+  
+**[Cost Efficiency and Scalability](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/05.%20Scalability%20and%20cost%20efficiency)**
 
-### **2. Main Router Setup**
-The **main router** acts like the front door of the network. It connects the different VLANs and allows them to communicate when needed. We used **sub-interfaces** to give each VLAN its own "virtual door" to pass through.
-
-### **3. Servers Configuration**
-We set up three important servers in the Management/Secretariat group:
-- **DHCP Server**: Automatically assigns IP addresses to computers in all groups.
-- **DNS Server**: Helps computers find each other by name (like a directory).
-- **iSCSI Storage Server**: Stores important files and resources for the network.
-
-### **4. Distribution Switches**
-To organize the network, we used two **distribution (aggregation) switches**:
-- **Aggregation Switch A**: Handles the Study and Production groups.
-- **Aggregation Switch B**: Manages the Support groups.
-
-These switches help gather and send traffic from the individual groups to the main router, keeping everything organized and easy to manage.
-
----
 
 ## **How Everything Works**
 
@@ -51,17 +42,6 @@ These switches help gather and send traffic from the individual groups to the ma
 3. The **servers** provide essential services like automatic IP address assignment (DHCP), helping computers find each other (DNS), and storing files (Storage).
 4. **Distribution switches** make sure that traffic from the different groups gets routed correctly and efficiently.
 5. Everything is organized in a way that allows the network to grow easily and remain manageable.
-
----
-
-## **IP Address Overview**
-
-| VLAN Group          | IP Range          | Default Gateway    |
-|---------------------|-------------------|--------------------|
-| Management/Secretariat | 192.168.10.0/24  | 192.168.10.254     |
-| Study Group         | 192.168.20.0/24    | 192.168.20.254     |
-| Production Group    | 192.168.30.0/24    | 192.168.30.254     |
-| Support Group       | 192.168.40.0/24    | 192.168.40.254     |
 
 ---
 
@@ -84,9 +64,9 @@ These switches help gather and send traffic from the individual groups to the ma
 
 ## **Contributors**
 
-- **Colin** - Network Design and Configuration
-- **younes** - Network Design and Configuration
-- **Rayane** - Network Design and Configuration
+- **Rayane** - Network Design and Configuration and documentation
+- **younes** - Network Design and Configuration and documentation
+- **Colin** - Network Design and Configuration and documentation
 
 ---
 
