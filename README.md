@@ -27,6 +27,10 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 - Routers
 - Switches
 
+**[FireWall](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Firewall)**
+
+**[Network Essentials](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/05.%20Network%20Essentials%20-%20Cabling%2C%20VLAN%2C%20ACL)**
+
 **[Cable Management](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Cable%20management)**
 - VLAN
 - Acces List
@@ -34,6 +38,8 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 **[Security and Purpose](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/04.%20Security%20and%20purposes)**
 - Different security explanation and how to apply them
 - Radius Authentication
+
+**[Contents](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/07.%20Contents)**
   
 **[Cost Efficiency and Scalability](https://github.com/neo01777/NOD-s-cisco-Project/tree/main/05.%20Scalability%20and%20cost%20efficiency)**
 
