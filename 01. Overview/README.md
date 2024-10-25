@@ -51,7 +51,8 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 - **Router Port Limitations**: Initially, we didn’t have enough physical ports on the router for all the groups, so we used **sub-interfaces** to create virtual connections.
 - **VLAN Setup**: Setting up and managing the VLANs took some trial and error to ensure that the groups stayed separated and communicated properly.
 - **Routing Traffic**: We had to carefully configure the router and switches to make sure that traffic flowed smoothly between the groups.
-
+- **DHCP server**: We had a problem with our DHCP server when we were not using ip address helper that defines the address of a remote DHCP server or DHCP relay agent.
+   Up to eight addresses can be defined. The DHCP relay agent forwards DHCP client requests to all defined servers.
 ---
 
 ## **How to Use This Project**
@@ -65,9 +66,9 @@ We used a combination of routers, switches, VLANs, and servers to make sure that
 
 ## **Contributors**
 
-- **Rayane** - Network Design and Configuration and documentation
-- **younes** - Network Design and Configuration and documentation
-- **Colin** - Network Design and Configuration and documentation
+- **Rayane** - Network Design, Configuration and documentation
+- **Younes** - Network Design, Configuration and documentation
+- **Colin** - Network Design, Configuration and documentation
 
 ---
 
