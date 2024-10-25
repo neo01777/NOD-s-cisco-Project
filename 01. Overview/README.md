@@ -11,7 +11,7 @@ In this project, we designed a network with four different groups:
 - **Support Group** (2 sectors, 10 computers each)
 
 We used a combination of routers, switches, VLANs, and servers to make sure that each group stays organized and can communicate efficiently.
-![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/07.%20Contents/workplace%20overview.png)
+![alt text](https://github.com/neo01777/NOD-s-cisco-Project/blob/main/08.%20Contents/workplace%20overview.png)
 
 ---
 
